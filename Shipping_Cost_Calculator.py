@@ -1,4 +1,4 @@
-# Here is another update by ChangZongWu
+ # Here is a new update by ChangZongWu
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
